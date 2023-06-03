@@ -5,9 +5,7 @@ This is my first API project from Frontend Mentor, which focuses on displaying r
 
 ## Built With
 
-- Semantic HTML5
-- Mobile first approach
+- HTML5
 - CSS
-- Media Queries
 - JAVASCRIPT
 - API
